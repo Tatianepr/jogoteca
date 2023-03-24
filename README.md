@@ -5,6 +5,6 @@
 Exemplo de aplicação web desenvolvida no curso da alura
 
 ```
-node app.js
+jogoteca.py
 ```
 :)
